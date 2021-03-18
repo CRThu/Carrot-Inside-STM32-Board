@@ -1,6 +1,6 @@
 # Carrot Inside STM32H743XIH6 Board
 
-## Main Hardware
+## Main Hardware Selection
 
 |Type       |Model          |Package    |Price  |
 |-          |-              |-          |-      |
@@ -8,6 +8,6 @@
 |SDRAM      |IS42S16160J    |BGA54      |¥6.5   |
 |NOR Flash  |W25Q256JV      |WSON8      |¥9.8   |
 |USBHS PHY  |USB3300-EZK    |QFN32      |¥2.5   |
-|Connector  |3710F-2*30P    |-          |¥5.6   |
+|Connector  |BTB-0.8mm*80P  |-          |¥7.0   |
 |Connector  |FPC-0.5mm*40P  |-          |¥0.4   |
 |PCB        |4 Layer        |-          |¥50.0  |
