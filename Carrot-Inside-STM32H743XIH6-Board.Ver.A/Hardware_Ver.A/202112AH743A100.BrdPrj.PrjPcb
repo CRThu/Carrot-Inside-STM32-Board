@@ -90,9 +90,9 @@ DocumentUniqueId=
 
 [Document4]
 DocumentPath=P03.McuPower.SchDoc
-AnnotationEnabled=0
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
+AnnotationEnabled=1
+AnnotateStartValue=301
+AnnotationIndexControlEnabled=1
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=2
@@ -124,12 +124,12 @@ DocumentUniqueId=HPKQXGSE
 
 [Document6]
 DocumentPath=P05.SDRAM.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=6
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -141,7 +141,7 @@ DocumentUniqueId=ELGVQOIP
 
 [Document7]
 DocumentPath=P06.USB.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=601
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -209,12 +209,12 @@ DocumentUniqueId=
 
 [Document11]
 DocumentPath=P07.Flash.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=7
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
