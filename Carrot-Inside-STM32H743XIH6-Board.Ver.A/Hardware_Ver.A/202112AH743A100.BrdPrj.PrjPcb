@@ -226,7 +226,7 @@ DocumentUniqueId=KTXMNJXO
 
 [Document12]
 DocumentPath=P08.ExtConn.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=801
 AnnotationIndexControlEnabled=1
 AnnotateSuffix=
@@ -278,6 +278,23 @@ DocumentUniqueId=
 [Document15]
 DocumentPath=P09.Power.SchDoc
 AnnotationEnabled=1
+AnnotateStartValue=901
+AnnotationIndexControlEnabled=1
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=8
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=OYLHUXZU
+
+[Document16]
+DocumentPath=202112AH743A100.PcbDoc
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -290,7 +307,11 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=OYLHUXZU
+DocumentUniqueId=VCGJJAYT
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for 202112AH743A100.BrdPrj\BGA Escape Route - 202112AH743A100.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources

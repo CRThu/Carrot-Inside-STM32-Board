@@ -1,0 +1,57 @@
+BGA Escape Route
+Filename     : D:\GitHub\Carrot-Inside-STM32-Board\Carrot-Inside-STM32H743XIH6-Board.Ver.A\Hardware_Ver.A\202112AH743A100.PcbDoc
+Date         : 2021/3/27
+Time         : 21:55:56
+Time Elapsed : 00:00:00
+
+U1
+    Pad U1-E13(2110.236mil,2110.237mil) on Top Layer on Net PC8
+    Pad U1-E5(1858.267mil,2110.237mil) on Top Layer on Net PE6
+    Pad U1-N13(2110.236mil,1858.268mil) on Top Layer on Net PJ8
+    Pad U1-N5(1858.267mil,1858.268mil) on Top Layer on Net PA0
+    Pad U1-E12(2078.74mil,2110.237mil) on Top Layer on Net FMC_D3
+    Pad U1-F13(2110.236mil,2078.741mil) on Top Layer on Net PC7
+    Pad U1-E6(1889.763mil,2110.237mil) on Top Layer on Net MCU_D3V3
+    Pad U1-F5(1858.267mil,2078.741mil) on Top Layer on Net MCU_D3V3
+    Pad U1-M13(2110.236mil,1889.764mil) on Top Layer on Net MCU_D3V3
+    Pad U1-N12(2078.74mil,1858.268mil) on Top Layer on Net MCU_D3V3
+    Pad U1-M5(1858.267mil,1889.764mil) on Top Layer on Net MCU_D3V3
+    Pad U1-N6(1889.763mil,1858.268mil) on Top Layer on Net PJ0
+    Pad U1-E11(2047.244mil,2110.237mil) on Top Layer on Net MCU_D3V3
+    Pad U1-G13(2110.236mil,2047.245mil) on Top Layer on Net MCU_D3V3
+    Pad U1-E7(1921.259mil,2110.237mil) on Top Layer on Net MCU_PDR
+    Pad U1-L13(2110.236mil,1921.26mil) on Top Layer on Net MCU_D3V3
+    Pad U1-G5(1858.267mil,2047.245mil) on Top Layer on Net MCU_D3V3
+    Pad U1-N11(2047.244mil,1858.268mil) on Top Layer on Net MCU_D3V3
+    Pad U1-L5(1858.267mil,1921.26mil) on Top Layer on Net MCU_D3V3
+    Pad U1-N7(1921.259mil,1858.268mil) on Top Layer on Net MCU_D3V3
+    Pad U1-E10(2015.748mil,2110.237mil) on Top Layer on Net PJ13
+    Pad U1-H13(2110.236mil,2015.748mil) on Top Layer on Net MCU_D3V3
+    Pad U1-H5(1858.267mil,2015.748mil) on Top Layer on Net MCU_D3V3
+    Pad U1-N10(2015.748mil,1858.268mil) on Top Layer on Net MCU_D3V3
+    Pad U1-G11(2047.244mil,2047.245mil) on Top Layer on Net GND
+    Pad U1-G7(1921.259mil,2047.245mil) on Top Layer on Net GND
+    Pad U1-L11(2047.244mil,1921.26mil) on Top Layer on Net GND
+    Pad U1-L7(1921.259mil,1921.26mil) on Top Layer on Net GND
+    Pad U1-G10(2015.748mil,2047.245mil) on Top Layer on Net GND
+    Pad U1-H11(2047.244mil,2015.748mil) on Top Layer on Net GND
+    Pad U1-G8(1952.755mil,2047.245mil) on Top Layer on Net GND
+    Pad U1-K11(2047.244mil,1952.756mil) on Top Layer on Net GND
+    Pad U1-H7(1921.259mil,2015.748mil) on Top Layer on Net GND
+    Pad U1-L10(2015.748mil,1921.26mil) on Top Layer on Net GND
+    Pad U1-K7(1921.259mil,1952.756mil) on Top Layer on Net GND
+    Pad U1-L8(1952.755mil,1921.26mil) on Top Layer on Net GND
+    Pad U1-G9(1984.252mil,2047.245mil) on Top Layer on Net GND
+    Pad U1-J11(2047.244mil,1984.252mil) on Top Layer on Net GND
+    Pad U1-J7(1921.259mil,1984.252mil) on Top Layer on Net GND
+    Pad U1-L9(1984.252mil,1921.26mil) on Top Layer on Net GND
+    Pad U1-H10(2015.748mil,2015.748mil) on Top Layer on Net GND
+    Pad U1-H8(1952.755mil,2015.748mil) on Top Layer on Net GND
+    Pad U1-K10(2015.748mil,1952.756mil) on Top Layer on Net GND
+    Pad U1-K8(1952.755mil,1952.756mil) on Top Layer on Net GND
+    Pad U1-H9(1984.252mil,2015.748mil) on Top Layer on Net GND
+    Pad U1-J10(2015.748mil,1984.252mil) on Top Layer on Net GND
+    Pad U1-J8(1952.755mil,1984.252mil) on Top Layer on Net GND
+    Pad U1-K9(1984.252mil,1952.756mil) on Top Layer on Net GND
+    Pad U1-J9(1984.252mil,1984.252mil) on Top Layer on Net GND
+count : 49
