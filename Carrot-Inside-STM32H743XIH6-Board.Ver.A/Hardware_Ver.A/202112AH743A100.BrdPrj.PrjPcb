@@ -107,7 +107,7 @@ DocumentUniqueId=LRETZSNA
 
 [Document5]
 DocumentPath=P04.McuConfig.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=401
 AnnotationIndexControlEnabled=1
 AnnotateSuffix=
@@ -277,7 +277,7 @@ DocumentUniqueId=
 
 [Document15]
 DocumentPath=P09.Power.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=901
 AnnotationIndexControlEnabled=1
 AnnotateSuffix=
@@ -1290,10 +1290,16 @@ NetClassManualEnabled=1
 NetClassSeparateForBusSections=0
 
 [LibraryUpdateOptions]
-SelectedOnly=0
+SelectedOnly=1
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
+ComponentLibIdentifierKind0=Library Name And Type
+ComponentLibraryIdentifier0=carrot_lib.IntLib
+ComponentDesignItemID0=Ferrite Bead
+ComponentSymbolReference0=Ferrite Bead
+ComponentUpdate0=1
+ComponentIsDeviceSheet0=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1307,6 +1313,27 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
+ParameterName0=Comment
+ParameterUpdate0=1
+ParameterName1=Component Kind
+ParameterUpdate1=1
+ParameterName2=Description
+ParameterUpdate2=1
+ParameterName3=Library Reference
+ParameterUpdate3=1
+ParameterName4=value
+ParameterUpdate4=1
+ModelTypeGroup0=PCBLIB
+ModelTypeUpdate0=1
+ModelType0=PCBLIB
+ModelName0=FB0603
+ModelUpdate0=1
+ModelType1=PCBLIB
+ModelName1=FB0805
+ModelUpdate1=1
+ModelType2=PCBLIB
+ModelName2=FB1206
+ModelUpdate2=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
